@@ -1907,3 +1907,12 @@ h2 span {
     }
 
 }
+
+.platform-status.source {
+    color: #e0c37e;
+}
+
+.platform-status.source > span {
+    background: #d9ad54;
+    box-shadow: 0 0 9px rgba(217, 173, 84, 0.65);
+}
